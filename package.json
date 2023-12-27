@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is Node Tutorial",
+  "main": "",
+  "type" : "module",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Js"
+  ],
+  "author": "Ankit Singh",
+  "license": "ISC"
+}
